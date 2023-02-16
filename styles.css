@@ -1,0 +1,65 @@
+.profilePicture {
+  width: 100px;
+  border-radius: 50px;
+}
+
+.container {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.profileName {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.sectionTitle {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.companyName {
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+.position {
+  font-weight: 10p;
+}
+
+.profileIntro {
+  text-align: center;
+}
+
+.contactSection {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+  justify-content: center;
+}
+
+.skillsList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.divider {
+  height: 5px;
+  background-color: greenyellow;
+}
+
+.spaceBetween {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+p {
+  margin: 0px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
